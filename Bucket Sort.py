@@ -1,3 +1,8 @@
+# Bucket Sort -
+# Estavel? Sim
+# Memória extra? Alta
+# Vantagens: Excelente desempenho com dados uniformemente distribuídos. Pode ser mais rápido que o Quick Sort.
+# Desvantagens: Requer função de distribuição adequada. Complexidade pode variar muito.
 # O algoritmo bucket sort (ordenação por balde). 
 # Este algoritmo é particularmente eficiente para ordenar dados com distribuição uniforme,
 # especialmente números de ponto flutuante. 
