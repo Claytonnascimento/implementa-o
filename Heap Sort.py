@@ -1,3 +1,8 @@
+# Heap Sort -
+# Estavel? Não
+# Memória extra? Baixa
+# Vantagens: Complexidade O(n log n). Não precisa de memória extra significativa.
+# Desvantagens: Não é estável. Mais lento que Quick Sort na média.
 # A função heapify organiza a lista em um max-heap (o maior elemento fica no topo) e,
 # em seguida, o heap_sort extrai repetidamente o maior elemento e o coloca no final da lista,
 # até que toda a lista esteja ordenada. 
