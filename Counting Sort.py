@@ -1,3 +1,8 @@
+# Counting Sort -
+# Estavel? Sim
+# Memória extra? Alta
+# Vantagens: Extremamente rápido para números inteiros pequenos. Complexidade O(n + k).
+# Desvantagens: Requer conhecer o valor máximo. Ineficiente para grandes intervalos de valores.
 # Counting Sort (Ordenação por Contagem).
 # Este algoritmo é eficiente para ordenar listas de números inteiros positivos
 # quando a diferença entre o maior e o menor valor não é muito grande [1].
