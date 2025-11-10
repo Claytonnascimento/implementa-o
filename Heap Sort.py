@@ -1,3 +1,8 @@
+# A função heapify organiza a lista em um max-heap (o maior elemento fica no topo) e,
+# em seguida, o heap_sort extrai repetidamente o maior elemento e o coloca no final da lista,
+# até que toda a lista esteja ordenada. 
+
+
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
 
 def heapify(arr, n, i):
