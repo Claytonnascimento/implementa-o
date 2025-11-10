@@ -1,3 +1,6 @@
+# A função quick_sort é recursiva, ou seja, ela chama a si mesma para resolver partes menores do problema (ordenar sub-listas),
+# até que toda a lista esteja ordenada. 
+
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
 
 def quick_sort(arr):
