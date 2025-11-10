@@ -1,3 +1,7 @@
+# Counting Sort (Ordenação por Contagem).
+# Este algoritmo é eficiente para ordenar listas de números inteiros positivos
+# quando a diferença entre o maior e o menor valor não é muito grande [1].
+
 def counting_sort(arr):
     max_val = max(arr)
     count = [0] * (max_val + 1)
