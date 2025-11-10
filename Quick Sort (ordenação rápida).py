@@ -1,3 +1,8 @@
+# Quick Sort (ordenação rápida) -
+# Estavel? Não
+# Memória extra? Baixa
+# Vantagens: Um dos mais rápidos na prática (O(n log n) em média). In-place (se implementado com ponteiros).
+# Desvantagens: Desempenho pode cair para O(n²) no pior caso. Não é estável por padrão.
 # A função quick_sort é recursiva, ou seja, ela chama a si mesma para resolver partes menores do problema (ordenar sub-listas),
 # até que toda a lista esteja ordenada. 
 
