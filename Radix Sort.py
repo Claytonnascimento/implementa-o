@@ -1,3 +1,6 @@
+# Esta função é uma variação do Counting Sort, adaptada para ordenar o array arr com base no dígito representado
+# por exp (que pode ser 1 para unidades, 10 para dezenas, 100 para centenas, e assim por diante).
+
 def counting_sort_exp(arr, exp):
     n = len(arr)
     output = [0] * n
