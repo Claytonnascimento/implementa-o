@@ -1,3 +1,8 @@
+# Merge Sort (ordenação por intercalação) -
+# Estavel? sim
+# Memória extra? Alta
+# Vantagens: Muito eficiente (O(n log n)). Estável (mantém a ordem relativa).
+# Desvantagens: Requer memória extra. Mais difícil de implementar manualmente.
 # A função mega sort funciona dividindo recursivamente a lista até que cada sublista tenha um único elemento e, 
 # em seguida, mesclando e ordenando essas sublistas para formar a lista final ordenada.  
 
