@@ -1,4 +1,9 @@
-# a função Selection Sort é encontrar repetidamente o elemento mínimo da parte não ordenada da lista 
+# Selection Sort (ordenação por seleção) -
+# Estavel? Não
+# Memória extra? Baixa
+# Vantagens: Simples de entender e implementar. Pouca memória extra necessária (in-place).
+# Desvantagens: Muito lento para grandes listas (O(n²)). Ineficiente mesmo em listas parcialmente ordenadas.
+# A função Selection Sort é encontrar repetidamente o elemento mínimo da parte não ordenada da lista 
 # e movê-lo para a posição correta no início da parte ordenada. 
 
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
