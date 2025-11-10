@@ -1,3 +1,7 @@
+# A função mega sort funciona dividindo recursivamente a lista até que cada sublista tenha um único elemento e, 
+# em seguida, mesclando e ordenando essas sublistas para formar a lista final ordenada.  
+
+
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
 
 def merge_sort(arr):
