@@ -1,6 +1,7 @@
 Selection Sort (ordenação por seleção)
 
 Estavel? Não
+
 Memória extra? Baixa
 
 Vantagens:
