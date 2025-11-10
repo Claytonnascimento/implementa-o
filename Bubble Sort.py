@@ -1,3 +1,8 @@
+# Bubble Sort -
+# Estavel? sim
+# Memória extra? Baixa
+# Vantagens: Fácil de implementar. Bom para listas pequenas ou quase ordenadas.
+# Desvantagens: Muito ineficiente para grandes volumes (O(n²)). Realiza muitas comparações desnecessárias.
 # O algoritmo Bubble Sort é um método de ordenação que compara pares de elementos adjacentes.
 # Os elementos são trocados se estiverem na ordem errada.
 # Este processo é repetido até que a lista esteja completamente ordenada.
