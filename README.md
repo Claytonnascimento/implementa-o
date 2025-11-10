@@ -15,6 +15,7 @@ Ineficiente mesmo em listas parcialmente ordenadas.
 Bubble Sort
 
 Estavel? sim
+
 Memória extra? Baixa
 
 Vantagens:
@@ -28,6 +29,7 @@ Realiza muitas comparações desnecessárias.
 Insertion Sort (ordenação por inserção)
 
 Estavel? Sim
+
 Memória extra? Baixa
 
 Vantagens:
@@ -40,6 +42,7 @@ Desempenho ruim em listas grandes (O(n²)).
 Merge Sort (ordenação por intercalação)
 
 Estavel? sim
+
 Memória extra? Alta
 
 Vantagens:
@@ -53,6 +56,7 @@ Mais difícil de implementar manualmente.
 Quick Sort (ordenação rápida)
 
 Estavel? Não
+
 Memória extra? Baixa
 
 Vantagens:
@@ -66,6 +70,7 @@ Não é estável por padrão.
 Heap Sort
 
 Estavel? Não
+
 Memória extra? Baixa
 
 Vantagens:
@@ -79,6 +84,7 @@ Mais lento que Quick Sort na média.
 Counting Sort
 
 Estavel? Sim
+
 Memória extra? Alta
 
 Vantagens:
@@ -92,6 +98,7 @@ Ineficiente para grandes intervalos de valores.
 Radix Sort
 
 Estavel? Sim
+
 Memória extra? ]alta
 
 Vantagens:
@@ -105,6 +112,7 @@ Só funciona bem com inteiros.
 Bucket Sort
 
 Estavel? Sim
+
 Memória extra? Alta
 
 Vantagens:
