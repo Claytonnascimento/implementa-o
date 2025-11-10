@@ -1,3 +1,7 @@
+# O algoritmo Bubble Sort é um método de ordenação que compara pares de elementos adjacentes.
+# Os elementos são trocados se estiverem na ordem errada.
+# Este processo é repetido até que a lista esteja completamente ordenada.
+
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
 
 def bubble_sort(arr):
