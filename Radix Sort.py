@@ -1,3 +1,8 @@
+# Radix Sort -
+# Estavel? Sim
+# Memória extra? Alta
+# Vantagens: Muito eficiente para números inteiros. Complexidade quase linear (O(nk)).
+# Desvantagens: Requer memória adicional. Só funciona bem com inteiros.
 # Esta função é uma variação do Counting Sort, adaptada para ordenar o array arr com base no dígito representado
 # por exp (que pode ser 1 para unidades, 10 para dezenas, 100 para centenas, e assim por diante).
 
