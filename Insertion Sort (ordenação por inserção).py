@@ -1,3 +1,6 @@
+# A função insertion_sort(arr) percorre a lista arr, e para cada elemento, compara-o com os elementos anteriores 
+# e o insere na posição correta para manter a parte inicial da lista sempre ordenada. 
+
 valores = [29, 10, 14, 37, 14, 3, 76, 45, 20]
 
 def insertion_sort(arr):
