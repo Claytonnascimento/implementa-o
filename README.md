@@ -1,4 +1,4 @@
-Selection Sort (ordenação por seleção)
+Selection Sort (ordenação por seleção) -
 
 Estavel? Não
 
@@ -12,7 +12,7 @@ Desvantagens:
 Muito lento para grandes listas (O(n²)).
 Ineficiente mesmo em listas parcialmente ordenadas.
 
-Bubble Sort
+Bubble Sort -
 
 Estavel? sim
 
@@ -26,7 +26,7 @@ Desvantagens:
 Muito ineficiente para grandes volumes (O(n²)).
 Realiza muitas comparações desnecessárias.
 
-Insertion Sort (ordenação por inserção)
+Insertion Sort (ordenação por inserção) -
 
 Estavel? Sim
 
@@ -39,7 +39,7 @@ Muito eficiente para listas quase ordenadas.
 Desvantagens:
 Desempenho ruim em listas grandes (O(n²)).
 
-Merge Sort (ordenação por intercalação)
+Merge Sort (ordenação por intercalação) -
 
 Estavel? sim
 
@@ -53,7 +53,7 @@ Desvantagens:
 Requer memória extra.
 Mais difícil de implementar manualmente.
 
-Quick Sort (ordenação rápida)
+Quick Sort (ordenação rápida) -
 
 Estavel? Não
 
@@ -67,7 +67,7 @@ Desvantagens:
 Desempenho pode cair para O(n²) no pior caso.
 Não é estável por padrão.
 
-Heap Sort
+Heap Sort -
 
 Estavel? Não
 
@@ -81,7 +81,7 @@ Desvantagens:
 Não é estável.
 Mais lento que Quick Sort na média.
 
-Counting Sort
+Counting Sort -
 
 Estavel? Sim
 
@@ -95,11 +95,11 @@ Desvantagens:
 Requer conhecer o valor máximo.
 Ineficiente para grandes intervalos de valores.
 
-Radix Sort
+Radix Sort -
 
 Estavel? Sim
 
-Memória extra? ]alta
+Memória extra? Alta
 
 Vantagens:
 Muito eficiente para números inteiros.
@@ -109,7 +109,7 @@ Desvantagens:
 Requer memória adicional.
 Só funciona bem com inteiros.
 
-Bucket Sort
+Bucket Sort -
 
 Estavel? Sim
 
